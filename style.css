@@ -8,11 +8,12 @@ div{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #2d3436;
 }
 
 div ul {
     display: flex;
-    border-bottom: 10px solid black;
+    border-bottom: 10px solid ;
 }
 
 div ul li {
