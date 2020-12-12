@@ -13,7 +13,7 @@ div{
 
 div ul {
     display: flex;
-    border-bottom: 10px solid ;
+    border-bottom: 10px solid rgb(151, 175, 140) ;
 }
 
 div ul li {
